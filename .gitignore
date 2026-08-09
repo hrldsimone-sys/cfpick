@@ -1,0 +1,14 @@
+# 编译产物
+/cfpick
+/cfpick.exe
+/cfpick-linux-*
+/cfpick-darwin-*
+/cfpick-windows-*
+/cfpick-freebsd-*
+
+# 系统
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
